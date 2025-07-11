@@ -496,3 +496,6 @@ body {
     transition: color 0.3s ease;
 }
 
+.footer-links a:hover {
+    color: #6366f1;
+}
